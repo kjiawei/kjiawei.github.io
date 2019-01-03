@@ -1,1 +1,14 @@
-baseurl: /
+#Site settings
+name: kjiawei's blog
+email: 523090538@qq.com
+author: Jerry Kong
+#url:
+#baseurl: /
+#resume_sie:
+github: https://github.com/kjiawei/
+description: practising,wising
+github_username: kjiawei
+meta_description: 邝嘉伟;个人博客;宁静致远;学无止境
+markdown: kramdown
+baidu_analysis: 37dae21e84175c30f7b33ec4486b411a
+#revolvermaps:
