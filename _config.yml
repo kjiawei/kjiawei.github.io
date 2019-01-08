@@ -12,3 +12,34 @@ meta_description: 邝嘉伟;个人博客;宁静致远;学无止境
 markdown: kramdown
 baidu_analysis: 37dae21e84175c30f7b33ec4486b411a
 #revolvermaps:
+
+links1:
+  - name: 所有
+    url : /
+    type : all
+    external : false
+  - name: 2019计划系列
+    url : /blog/essays
+    type : plan19
+    external : false
+  - name: 2018年终总结系列
+    url : /blog/essays
+    type : note18
+    external : false
+  - name: 电商平台搭建思考
+    url : /blog/eshop
+    type : eshop
+    external : false
+  - name: python应用
+    url : /blog/python
+    type : python_app
+    external : false
+  - name: QT之旅
+    url : /blog/qt
+    type : qt_travel
+    external : false
+
+blog_1: essays
+blog_2: eshop
+blog_3: python
+blog_4: qt
