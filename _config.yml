@@ -2,10 +2,11 @@
 name: kjiawei's blog
 email: 523090538@qq.com
 author: Jerry Kong
-#url:
-baseurl: /
-#resume_sie:
+url:www.fuhefresh.top
 github: https://github.com/kjiawei/
+baseurl: ""
+#resume_sie:
+
 description: practising,wising
 github_username: kjiawei
 meta_description: 邝嘉伟;个人博客;宁静致远;学无止境
