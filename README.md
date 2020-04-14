@@ -1,5 +1,10 @@
-# Jerry's Blog
-[Address](https://kjiawei.github.io/)
+# [Jerry's Blog](https://kjiawei.github.io/)
+
+Email:523090538@qq.com
+![Wechat:523090538](http://q8r94c7ru.bkt.clouddn.com/wechat.jpg)
+
+
+
 
 Category:
 2018年终总结系列~挑几件纪念的事
