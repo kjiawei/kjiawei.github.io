@@ -1,5 +1,5 @@
 # Jerry's Blog
-http:kjiawei.github.io
+[http:kjiawei.github.io]
 
 category:
 2018年终总结系列~挑几件纪念的事
