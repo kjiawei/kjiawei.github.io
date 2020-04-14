@@ -1,10 +1,13 @@
-# kjiawei.github.io
+# Jerry's Blog
+http:kjiawei.github.io
+
 category:
-2018年终总结系列
+2018年终总结系列~挑几件纪念的事
 2019计划系列
+
 电商平台搭建思考
 QT之旅
-python应用:抢票 抓图
+
 
 定位形象打造
 1.就职于医疗器械行业的软件工程师,喜欢折腾,C++大神,捣鼓Android
