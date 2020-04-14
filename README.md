@@ -1,10 +1,11 @@
 # [Jerry's Blog](https://kjiawei.github.io/)
 
 Email:523090538@qq.com
-![Wechat:523090538](http://q8r94c7ru.bkt.clouddn.com/wechat.jpg)
+## ![Wechat](http://q8r94c7ru.bkt.clouddn.com/wechat.png)
 
-
-
+### 打赏
+![微信](http://q8r94c7ru.bkt.clouddn.com/wechat_pay.png)
+![支付宝](http://q8r94c7ru.bkt.clouddn.com/ali_pay.png)
 
 Category:
 2018年终总结系列~挑几件纪念的事
